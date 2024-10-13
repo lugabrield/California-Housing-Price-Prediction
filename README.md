@@ -43,6 +43,4 @@ After hyperparameter tuning, the XGBoost model showed the best performance with 
 - Scikit-learn
 - XGBoost
 
-You can install the required libraries using:
-```bash
-pip install -r requirements.txt
+
